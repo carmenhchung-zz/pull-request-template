@@ -1,3 +1,5 @@
+![github pull request template](https://github.com/carmenhchung/pull-request-template/blob/master/undraw_terms_lso0.png)
+
 # Introduction
 
 This repo provides a pull request template that can be automatically applied to every pull request.
