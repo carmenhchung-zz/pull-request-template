@@ -37,7 +37,7 @@ I have completed the following:
 # 🔍 QA
 [Briefly outline the QA steps you have undertaken, including whether testing was done locally, on a review app and/or on staging.]
 
-# 📣Final Checklist
+# 📣 Final Checklist
 I have completed the following:
 
 - [ ] Added appropriate comments to my code where the code is not easily understood.
