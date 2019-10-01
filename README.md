@@ -2,7 +2,7 @@
 
 # Introduction
 
-This repo provides a pull request template that can be automatically applied to every pull request.
+This repo provides a [pull request template](https://github.com/carmenhchung/pull-request-template/blob/master/pull_request_template.md) that can be automatically applied to every pull request.
 
 Pull request templates are incredibly useful: they allow developers to write consistent, clear pull request descriptions that are helpful to those (like new hires or code reviewers) who are required to review hundreds of lines of code without any context (😭). More importantly, a PR template acts as a safeguard to ensure that team members don't accidentally forget steps before, during, and after merging and deployment.
 
