@@ -1,4 +1,4 @@
-![github pull request template](https://github.com/carmenhchung/pull-request-template/blob/master/undraw_terms_lso0.png)
+<p align="center"><img src="https://github.com/carmenhchung/pull-request-template/blob/master/undraw_terms_lso0.png" alt="github pull request template" height="350"/></p>
 
 # Introduction
 
@@ -8,9 +8,12 @@ Pull request templates are incredibly useful: they allow developers to write con
 
 If you've ever been lost for words when writing a pull request description (🤔), or forgotten to migrate that data after you deployed (🤦🏻‍♀️!), or thought you'd write a spec later for your code but failed to do so (😠), then this is a great starting point.
 
-Obviously, each team / repo will be different, so please feel free to fork this template and customise it to your heart's content (💗). 
+In order to tick off your checkboxes, just add an `X` in the square brackets after the dash (like this: 
+`- [X]`), which will then become:
 
-If you have any suggestions on how to improve it, please tweet at me at [@carmenhchung](https://twitter.com/carmenhchung) - I'd love to hear from you!
+- [X] Check me if you use a pull request template!
+
+Obviously, each team / repo will be different, so please feel free to fork this template and customise it to your heart's content (💗). If you have any suggestions on how to improve it, please tweet at me at [@carmenhchung](https://twitter.com/carmenhchung) - I'd love to hear from you!
 
 # Not convinced?
 
