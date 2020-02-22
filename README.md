@@ -19,7 +19,7 @@ Obviously, each team / repo will be different, so please feel free to fork this 
 
 "I don't need a PR template," you scoff. Or, "My colleagues won't let me sit with them if I ever tried to apply this to every PR!" you lament.
 
-I get it. Implementing new processes takes a lot of time and energy (and sometimes a little shameless begging). If it helps, feel free to watch my talk on [How to write technical documentation that will save your career](https://www.youtube.com/watch?v=ocqjOFrrios), which shows how documentation - including using a pull request template - can make a huge difference to your workflow.
+I get it. Implementing new processes takes a lot of time and energy (and sometimes a little shameless begging). If it helps, feel free to watch my talk on ["How to write technical documentation that will save your career"](https://www.youtube.com/watch?v=ocqjOFrrios), which shows how documentation - including using a pull request template - can make a huge difference to your workflow.
 
 Don't want to see my face? (Don't worry, that makes two of us. 😅) I'll be posting a blog post (link to come) to convince you that using a pull request template will do wonders for your coding life.
 
